@@ -1,0 +1,46 @@
+# textdomain:terraria
+Oak Tree=
+Oak Wood Planks=
+Oak Wood Fence=
+Oak Wood Fence Rail=
+Oak Wood Mese Post Light=
+Oak Wood Fence Gate=
+Oak Wood Stair=
+Oak Wood Slab=
+Oak Tree Leaves=
+Oak Tree Sapling=
+
+Mapple Tree Leaves=
+Mapple Tree=
+Mapple Wood Planks=
+Mapple Wood Fence=
+Mapple Wood Fence Rail=
+Mapple Wood Mese Post Light=
+Mapple Wood Fence Gate=
+Mapple Wood Stair=
+Mapple Wood Slab=
+Mapple Tree Sapling=
+
+Beech Tree Leaves=
+Beech Tree=
+Beech Wood Planks=
+Beech Wood Fence=
+Beech Wood Fence Rail=
+Beech Wood Mese Post Light=
+Beech Wood Fence Gate=
+Beech Wood Stair=
+Beech Wood Slab=
+Beech Tree Sapling=
+
+Spruce Tree=
+Spruce Wood Planks=
+Spruce Wood Fence=
+Spruce Wood Fence Rail=
+Spruce Wood Mese Post Light=
+Spruce Tree Leaves=
+Spruce Tree Sapling=
+Spruce Wood Fence Gate=
+Spruce Wood Stair=
+Spruce Wood Slab=
+Dirt with Coniferous Grass=
+Spruce Leaves On The Ground=
